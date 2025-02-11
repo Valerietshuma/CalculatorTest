@@ -1,4 +1,4 @@
 package calcu.java;
 
-public class CalcuTest {
+public class calcuTest {
 }
